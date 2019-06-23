@@ -1,2 +1,2 @@
-# Numerical-methods-Python
-Numerical-methods-Python
+# Numerical-methods
+Numerical-methods
